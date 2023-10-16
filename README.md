@@ -7,23 +7,28 @@ Parts: [DigiKey](https://www.digikey.com/short/22hnb0rh)
 Optional soldering helper PCB: https://oshpark.com/shared_projects/EoeBHp2k  
 Ribbon for connector-pull: https://www.target.com/p/orange-birthday-ribbon-spritz-8482/-/A-86900836
 
-This cable kit supports all 3 computer models that the Disk/Video Interface supports.
-* TRS-80 Model 100  
+This cable kit supports all 3 computer models that the Disk/Video Interface supports: TRS-80 Model 100, TANDY Models 102 and 200
+
+Aside from the Model 100 bus connector, all connections are polarity protected and can't be accidentally connected any other way except the right way.
+
+## Usage
+On the D/V-I, The connector is on the underside of the box, and the plug must be pressed firmly enough to cause the two latches to snap closed.
+
+### TRS-80 Model 100  
 Use all 3 parts connected together.
 Plug the Model 100 adapter cable into the bus connector socket with the cable going directly towards the rear of the computer without having to fold back over the top of the bus connector.
 The red stripe should be towards the battery compartment.
 
-* TANDY Model 102 or 200
-Use just the main cable and twist adapter connected together.
+### TANDY Model 102 or 200
+Use only the main cable and twist adapter connected together.  
+The twist adapter plugs directly into the back of the computer.
 
-Aside from the Model 100 bus connector, all connections are polarity protected and can't be accidentally connected the wrong way.
+## Construction
 
-On the D/V-I, The connector is on the underside of the box near the front. the plug must be pressed firmly enough to cause the two latches to snap closed.
-
-## Part 1 - Main Cable  
+### Part 1 - Main Cable  
 Take one of the 2 pre-made cables and put it to the side. This is the main cable and will be used unmodified later.
 
-## Part 2 - Twist Adapter  
+### Part 2 - Twist Adapter  
 Solder the 2 narrow 40-pin pin headers to each other, back to back, with the polarity notches on opposite sides from each other. One connector notch-up, the other connector notch-down.  
 
 This will make pin #1 on one connector go to pin #2 on the opposite connector. This is correct.  
@@ -34,7 +39,7 @@ Optionally cover the pins with hot-glue and fill the gab between the connectors.
 
 It's called the twist adapter because it has the same effect as seperating all 40 wires into 20 pairs, and then giving each pair 1/2 twist.
 
-## Part 3 - Model 100 Adapter
+### Part 3 - Model 100 Adapter
 Take the remaining pre-made cable and cut it in half, so that each half is about 8 to 9 inches long.
 
 Discard one half. If both halves are not identical, keep the one that has the cable on the opposite side from the polarity bump on the connector.  
