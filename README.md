@@ -2,8 +2,8 @@
 
 ![](kit.jpg)
 
-Pics: https://www.digikey.com/short/22hnb0rh  
-Parts: [DigiKey](https://www.digikey.com/short/22hnb0rh)
+Pics: https://photos.app.goo.gl/Jy1hXhc3aSbkcaFr6  
+Parts: [DigiKey](https://www.digikey.com/short/22hnb0rh)  
 Optional soldering helper PCB: https://oshpark.com/shared_projects/EoeBHp2k  
 Ribbon for connector-pull: https://www.target.com/p/orange-birthday-ribbon-spritz-8482/-/A-86900836
 
