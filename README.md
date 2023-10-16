@@ -21,7 +21,7 @@ Aside from the Model 100 bus connector, all connections are polarity protected a
 On the D/V-I, The connector is on the underside of the box near the front. the plug must be pressed firmly enough to cause the two latches to snap closed.
 
 ## Part 1 - Main Cable  
-Take one of the cables and put it to the side. This is the main cable and will be used unmodified as it is later.
+Take one of the 2 pre-made cables and put it to the side. This is the main cable and will be used unmodified later.
 
 ## Part 2 - Twist Adapter  
 Solder the 2 narrow 40-pin pin headers to each other, back to back, with the polarity notches on opposite sides from each other. One connector notch-up, the other connector notch-down.  
@@ -32,10 +32,12 @@ Optionally use the soldering helper pcb for this if you want. It's not needed, b
 
 Optionally cover the pins with hot-glue and fill the gab between the connectors.  
 
-## Part 3 - Model 100 Adapter
-Take one of the cables and cut it in half, so that each half is about 8 to 9 inches long.
+It's called the twist adapter because it has the same effect as seperating all 40 wires into 20 pairs, and then giving each pair 1/2 twist.
 
-Discard one half. If both halves are not identical, keep the half that has the cable going the opposite direction from the polarity bump on the connector.  
+## Part 3 - Model 100 Adapter
+Take the remaining pre-made cable and cut it in half, so that each half is about 8 to 9 inches long.
+
+Discard one half. If both halves are not identical, keep the one that has the cable on the opposite side from the polarity bump on the connector.  
 If both do, or neither does, just pick either one to use.
 
 Crimp the IDC-40 connector onto the cut end of the cable with the pins on the same side of the cable as the polarity bump on the other end of the cable.  
