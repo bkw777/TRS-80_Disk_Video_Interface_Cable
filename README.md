@@ -40,18 +40,31 @@ Optionally cover the pins with hot-glue and fill the gab between the connectors.
 It's called the twist adapter because it has the same effect as seperating all 40 wires into 20 pairs, and then giving each pair 1/2 twist.
 
 ### Part 3 - Model 100 Adapter
-Take the remaining pre-made cable and cut it in half, so that each half is about 8 to 9 inches long.
+Cut the remaining pre-made cable in half, so that each half is about 8 to 9 inches long.
 
-Discard one half. If both halves are not identical, keep the one that has the cable on the opposite side from the polarity bump on the connector.  
-If both do, or neither does, just pick either one to use.
+Place the DIP-40 connector on your work surface with the pins down and with the two rows oriented vertically.  
+Mark the top-left corner to indicate pin 1.  
+The connector is symmetrical and has no pin-1 mark itself, you just pick either end and mark it.  
 
-Crimp the IDC-40 connector onto the cut end of the cable with the pins on the same side of the cable as the polarity bump on the other end of the cable.  
-IE: Lay the cable out flat with the red stripe up and the polarity bump up.  
-Insert the cut end of the cable into the DIP-40 connector with the pins pointing up.  
-Crimp the DIP-40 connector using a small hobby vice, and ideally some wood blocks to spread the pressure and protect the pins.  
+Place both cut cables flat on the table to the right of the DIP-40 connector with the cut ends to the left and the connectors to the right, and the red stripe up.  
+If only one of the connectors has the polarity bump facing down, use that cable and discard the other, otherwise pick either one.  
 
-Take an 8 inch length of 3/8" strong fabric ribbon and hot-glue one end of the ribbon to the bottom of the DIP-40 connector in between the pins. Cover the whole bottom and press it flat before it cools.  
-Loop the ribbon over the top and glue the other end to the bottom to form a closed loop.  
-Don't just make a loop by gluing the the ribbon to itself. It's important that the loop is also fixed to the connector and the connector can't move or slide along the ribbon.  
+Insert the cut end of the cable into the DIP-40 connector, maintaining the orientations from above: The DIP-40 is pins-down with the pin-1 mark to the top-left, The DIP-40/cut end is left and the female IDC is to the right, the red stripe is up.
 
-Constructing the pull loop this way ensures that when you pull the DIP-40 out of the bus connector socket, the connector does not tip and bend the pins when the connector breaks free from the socket.  The closed loop and fixed attachement forces the connector to remain level even though you are not pulling perfectly straight.
+Maintain this assembly without seperating the parts or losing the current orientation of the parts while you crimp the DIP-40 in a hobby vice.
+
+You want the final result to be for the cable to go directly from the DIP-40 system bus connector straight back to the rear of the Model 100, with the polarity bump pointing up, and the red stripe on the side facing the reset button. (but don't plug it in all the way yet, we still need to attach an extraction loop to make it easy to unplug without bending the pins)
+
+Finally take an 8 inch length of 3/8" fabric ribbon and hot-glue one end of the ribbon to the bottom of the DIP-40 connector in between the pins. Cover the whole length of the connector with ribbon and press it flat before it cools.  
+Loop the ribbon over the top and glue the other end to the bottom to form a closed loop, again overlapping the full length of the connector with ribbon.  
+
+In order to protect the pins from bending when extracting, it's important that all of these things are true:  
+1 - The ribbon forms a closed loop.
+2 - The ribbon is fixed to the connector so that the loop cannot slide relative to the connector.  
+3 - The ribbon is not elastic.  
+4 - Your fingers are not slippery with soap water or something when pulling on the loop.
+
+With that, even when you pull the loop off-center, the ribbon forces the connector to stay parallel to the socket and the pins don't get bent when the connector starts to break free.
+
+When installed, the female IDC connector will just clear the rear of the model 100 and provide essentially the same connector, orientation, and pinout as a 102 or 200.
+
