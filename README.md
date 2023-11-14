@@ -59,7 +59,7 @@ Finally take an 8 inch length of 3/8" fabric ribbon and hot-glue one end of the 
 Loop the ribbon over the top and glue the other end to the bottom to form a closed loop, again overlapping the full length of the connector with ribbon.  
 
 In order to protect the pins from bending when extracting, it's important that all of these things are true:  
-1 - The ribbon forms a closed loop.
+1 - The ribbon forms a closed loop.  
 2 - The ribbon is fixed to the connector so that the loop cannot slide relative to the connector.  
 3 - The ribbon is not elastic.  
 4 - Your fingers are not slippery with soap water or something when pulling on the loop.
